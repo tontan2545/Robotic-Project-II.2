@@ -5,7 +5,7 @@ Development Environment
 - Arduino Mega AT 2560
 
 Steps to run this project
-## 1. Update api
+## 1. Update apt
 ```
 sudo apt-get update
 ```
